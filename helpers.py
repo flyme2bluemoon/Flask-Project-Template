@@ -12,4 +12,4 @@ from flask import Flask, redirect, request, render_template, session
 #     password=secret,
 #     database=""
 # )
-# finance_db = mydb_conn.cursor()
+# db = mydb_conn.cursor()
